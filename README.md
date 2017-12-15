@@ -88,7 +88,7 @@ I used the ***bigrquery*** package in R to query data from Google BigQuery with 
 library(bigrquery)
 
 # BigQuery project ID
-project <- 
+project <-  #input project id
 
 # SQL code
 sql <- "SELECT 
